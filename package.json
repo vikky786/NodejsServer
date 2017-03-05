@@ -1,0 +1,16 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "dependencies": {
+    "express": "*",
+    "nodemon": "^1.11.0",
+    "socket.io": "*"
+  },
+  "author": "vikas",
+  "license": "ISC"
+}
